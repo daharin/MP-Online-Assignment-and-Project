@@ -150,7 +150,7 @@ cd "Adult Census Income Classification"
 pip install numpy pandas scikit-learn kagglehub jupyter
 
 # 3. Launch the notebook
-jupyter notebook "Assignment Akshat Garg.ipynb"
+jupyter notebook "Assignment Pranhavee Tyagi.ipynb"
 ```
 
 > **Note:** The notebook automatically downloads the dataset using `kagglehub`. Ensure your Kaggle API credentials are configured (`~/.kaggle/kaggle.json`).
@@ -161,7 +161,7 @@ jupyter notebook "Assignment Akshat Garg.ipynb"
 
 ```
 Adult Census Income Classification/
-├── Assignment Akshat Garg.ipynb   # Main notebook with full pipeline
+├── Assignment Pranhavee Tyagi.ipynb   # Main notebook with full pipeline
 ├── README.md                      # Project documentation (this file)
 └── anaconda_projects/             # Anaconda project files
 ```
@@ -172,11 +172,11 @@ Adult Census Income Classification/
 
 | Field | Detail |
 |---|---|
-| **Name** | Akshat Garg |
-| **Registration No.** | 23BCE10641 |
-| **Application No.** | IN26011052 |
-| **Batch** | 1A |
-| **Email** | akshat.23bce10641@vitbhopal.ac.in |
+| **Name** | Pranhavee Tyagi |
+| **Registration No.** | 23BCE11740 |
+| **Application No.** | IN26009567 |
+| **Batch** | 2B |
+| **Email** | pranhavee.23bce11740@vitbhopal.ac.in |
 
 ---
 

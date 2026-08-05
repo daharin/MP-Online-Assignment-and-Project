@@ -1,14 +1,14 @@
 # 🖼️ CIFAR-10 Image Classification using CNN
 
-**Name:** Akshat Garg  
+**Name:** Pranhavee Tyagi
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BCE11740
 
-**Application Number:** IN26011052
+**Application Number:**IN26009567
 
-**Batch Number:** 1A
+**Batch Number:** 2B
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in
+**Email ID:** pranhavee.23bce11740@vitbhopal.ac.in**
 
 A deep learning project that classifies **32×32 RGB images** into **10 categories** using a custom **Convolutional Neural Network (CNN)** built with TensorFlow/Keras, targeting **85%+ accuracy**.
 
@@ -170,7 +170,7 @@ cd "CIFAR 10"
 pip install tensorflow matplotlib numpy scipy scikit-learn seaborn
 
 # 3. Launch the notebook
-jupyter notebook "CIFAR-10 AKSHAT GARG 23BCE10641.ipynb"
+jupyter notebook "CIFAR-10 .ipynb"
 ```
 
 > **Note:** The CIFAR-10 dataset is downloaded automatically by TensorFlow on first run (~170 MB). No Kaggle account needed.
@@ -181,7 +181,7 @@ jupyter notebook "CIFAR-10 AKSHAT GARG 23BCE10641.ipynb"
 
 ```
 CIFAR 10/
-├── CIFAR-10 AKSHAT GARG 23BCE10641.ipynb   # Main notebook (full pipeline)
+├── CIFAR-10.ipynb   # Main notebook (full pipeline)
 └── README.md                                # Project documentation
 ```
 

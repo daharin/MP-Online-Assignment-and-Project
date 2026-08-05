@@ -1,14 +1,14 @@
 # 🎬 Movie Recommendation System
 
-**Name:** Akshat Garg  
+**Name:** Pranhavee Tyagi
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BCE11740
 
-**Application Number:** IN26011052
+**Application Number:** IN26009567
 
-**Batch Number:** 1A
+**Batch Number:** 2B
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** pranhavee.23bce11740@vitbhopal.ac.in
 
 A web-based Movie Recommendation System built using **Python**, **Flask**, **Pandas**, and **Scikit-learn**. The application recommends similar movies based on genre similarity using **TF-IDF Vectorization** and **Cosine Similarity**.
 

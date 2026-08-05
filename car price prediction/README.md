@@ -1,14 +1,15 @@
 # 🚗 Car Price Prediction System
 
-**Name:** Akshat Garg  
+**Name:** Pranhavee Tyagi
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BCE11740
 
-**Application Number:** IN26011052
+**Application Number:** IN26009567
 
-**Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Batch Number:** 2B
+
+**Email ID:** pranhavee.23bce11740@vitbhopal.ac.in
 
 A machine learning project that predicts the **selling price of used cars** using a **Random Forest Regressor**, saved with Pickle and deployed as a **Flask web application**.
 
@@ -197,7 +198,7 @@ cd "car price prediction"
 pip install pandas numpy scikit-learn flask seaborn matplotlib opendatasets
 
 # 3. Option A: Run the notebook (trains model + saves pickle + creates app)
-jupyter notebook "CAR_PRICE_PREDICTOR_AKSHAT_GARG_23BCE10641.ipynb"
+jupyter notebook "CAR_PRICE_PREDICTOR.ipynb"
 
 # 3. Option B: Run the Flask app directly (if model pickle already exists)
 python app.py
@@ -213,7 +214,7 @@ Then open **http://127.0.0.1:5000** in your browser to use the predictor.
 
 ```
 car price prediction/
-├── CAR_PRICE_PREDICTOR_AKSHAT_GARG_23BCE10641.ipynb   # Main notebook (EDA + training + app creation)
+├── CAR_PRICE_PREDICTOR.ipynb   # Main notebook (EDA + training + app creation)
 ├── app.py                                              # Flask web application
 ├── car_price_model.pkl                                 # Serialized Random Forest model
 ├── templates/

@@ -1,14 +1,14 @@
 # 👤 Face Recognition using CNN — Labeled Faces in the Wild (LFW)
 
-**Name:** Akshat Garg  
+**Name:**Pranhavee Tyagi 
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BCE11740
 
-**Application Number:** IN26011052
+**Application Number:** IN26009567
 
-**Batch Number:** 1A
+**Batch Number:** 2b
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** pranhavee.23bce11740@vitbhopal.ac.in
 
 A deep learning project that recognizes **faces of 7 public figures** from the **LFW (Labeled Faces in the Wild)** dataset using a custom **Convolutional Neural Network (CNN)** built with TensorFlow/Keras, targeting **90%+ accuracy**.
 
@@ -176,7 +176,7 @@ cd "LFW face recognition"
 pip install tensorflow matplotlib numpy scipy scikit-learn seaborn
 
 # 3. Launch the notebook
-jupyter notebook "LFW AKSHAT GARG 23BCE10641.ipynb"
+jupyter notebook "LFW.ipynb"
 ```
 
 > **Note:** The LFW dataset is downloaded automatically by scikit-learn on first run (~200 MB). No Kaggle account needed.
@@ -187,7 +187,7 @@ jupyter notebook "LFW AKSHAT GARG 23BCE10641.ipynb"
 
 ```
 LFW face recognition/
-├── LFW AKSHAT GARG 23BCE10641.ipynb   # Main notebook (full pipeline)
+├── LFW .ipynb   # Main notebook (full pipeline)
 └── README.md                          # Project documentation
 ```
 
